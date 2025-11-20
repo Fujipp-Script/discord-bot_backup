@@ -1,0 +1,2727 @@
+{
+  "version": 1,
+  "guild": {
+    "id": "1397606218712879215",
+    "name": "Treasure"
+  },
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": true,
+      "position": 0
+    },
+    {
+      "name": "REVIEWS",
+      "color": 11127295,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 1
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗢𝗧𝗛𝗘𝗥ㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 2
+    },
+    {
+      "name": "ROBLOX",
+      "color": 131586,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 3
+    },
+    {
+      "name": "KEY",
+      "color": 131586,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 4
+    },
+    {
+      "name": "TESTER",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 5
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗚𝗔𝗡𝗚ㅤㅤㅤㅤㅤㅤ    ㅤㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 6
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗘𝗩𝗘𝗡𝗧ㅤㅤㅤㅤ    ㅤㅤㅤㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 7
+    },
+    {
+      "name": "ㅤBOT",
+      "color": 16777215,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 8
+    },
+    {
+      "name": "ㅤBOT PREMIUM",
+      "color": 11127295,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 9
+    },
+    {
+      "name": "ㅤTREASURE",
+      "color": 10070709,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "Stream",
+        "SendMessages",
+        "Connect",
+        "Speak",
+        "UseVAD"
+      ],
+      "isEveryone": false,
+      "position": 10
+    },
+    {
+      "name": "ㅤVERIFY",
+      "color": 3577974,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "AddReactions",
+        "Stream",
+        "SendMessages",
+        "SendTTSMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "UseExternalSounds",
+        "SendVoiceMessages"
+      ],
+      "isEveryone": false,
+      "position": 11
+    },
+    {
+      "name": "ㅤCUSTOMER",
+      "color": 16276572,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 12
+    },
+    {
+      "name": "ㅤPREMIUM CUSTOMER",
+      "color": 16717852,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 13
+    },
+    {
+      "name": "ㅤTOP 10 CUSTOMER",
+      "color": 16754176,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 14
+    },
+    {
+      "name": "ㅤTOP 1 CUSTOMER",
+      "color": 16766720,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 15
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗥𝗢𝗟𝗘ㅤㅤㅤㅤㅤ    ㅤㅤㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 16
+    },
+    {
+      "name": "ㅤBOOSTER",
+      "color": 16735471,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 17
+    },
+    {
+      "name": "ㅤVIP",
+      "color": 7245567,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 18
+    },
+    {
+      "name": "ㅤBOT PARTNER",
+      "color": 5265653,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 19
+    },
+    {
+      "name": "ㅤPARTNER",
+      "color": 5265653,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 20
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗥𝗔𝗡𝗞ㅤㅤㅤㅤㅤ  ㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 21
+    },
+    {
+      "name": "ㅤSPECIAL",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 22
+    },
+    {
+      "name": "ㅤSUPPORT",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "Administrator"
+      ],
+      "isEveryone": false,
+      "position": 23
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗦𝗣𝗘𝗖𝗜𝗔𝗟ㅤㅤㅤㅤㅤ  ㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 24
+    },
+    {
+      "name": "new role",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 25
+    },
+    {
+      "name": "ㅤDESIGNER",
+      "color": 3577974,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 26
+    },
+    {
+      "name": "ㅤDEVELOPER",
+      "color": 6044671,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageWebhooks",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 27
+    },
+    {
+      "name": "ㅤSECURITY",
+      "color": 6978045,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 28
+    },
+    {
+      "name": "ㅤMODERATOR",
+      "color": 6978045,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageWebhooks",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "CreateEvents",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 29
+    },
+    {
+      "name": "ㅤADMIN",
+      "color": 16411411,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageWebhooks",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 30
+    },
+    {
+      "name": "ㅤOWNER",
+      "color": 16422675,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 31
+    },
+    {
+      "name": "ㅤSERVICE TEAM",
+      "color": null,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 32
+    },
+    {
+      "name": "ㅤDRAGON TEAM",
+      "color": 2565927,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 33
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗛𝗘𝗥𝗢ㅤㅤㅤㅤㅤ  ㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 34
+    },
+    {
+      "name": "NOT USE",
+      "color": 16711684,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 35
+    },
+    {
+      "name": "VERIFIED",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 36
+    },
+    {
+      "name": "ROLE",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "ManageRoles"
+      ],
+      "isEveryone": false,
+      "position": 37
+    },
+    {
+      "name": "MUSIC",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "AddReactions",
+        "Stream",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageWebhooks",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseSoundboard",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls"
+      ],
+      "isEveryone": false,
+      "position": 38
+    },
+    {
+      "name": "LOG",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ManageWebhooks",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 39
+    },
+    {
+      "name": "TICKET",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "AddReactions",
+        "SendMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageWebhooks",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads"
+      ],
+      "isEveryone": false,
+      "position": 40
+    },
+    {
+      "name": "SAFETY",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "ManageChannels",
+        "AddReactions",
+        "ViewAuditLog",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseSoundboard",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls"
+      ],
+      "isEveryone": false,
+      "position": 41
+    },
+    {
+      "name": "SYSTEM",
+      "color": null,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "CreateInstantInvite",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ],
+      "isEveryone": false,
+      "position": 42
+    },
+    {
+      "name": "ㅤㅤㅤㅤㅤ  ㅤㅤ  𝗕𝗢𝗧ㅤㅤㅤㅤㅤ  ㅤㅤ",
+      "color": 16777215,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [],
+      "isEveryone": false,
+      "position": 43
+    },
+    {
+      "name": "ㅤDRAGON HEAD",
+      "color": 5640208,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "Administrator"
+      ],
+      "isEveryone": false,
+      "position": 44
+    },
+    {
+      "name": "ㅤFOUNDER",
+      "color": 197379,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": [
+        "Administrator"
+      ],
+      "isEveryone": false,
+      "position": 45
+    },
+    {
+      "name": "ㅤHOLDER",
+      "color": 197379,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": [
+        "Administrator"
+      ],
+      "isEveryone": false,
+      "position": 46
+    }
+  ],
+  "channels": [
+    {
+      "name": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "type": "GuildCategory",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616523241197638",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "ㄴ⋮💬ㆍ𝗚𝗲𝗻𝗲𝗿𝗮𝗹✧𝗖𝗵𝗮𝘁",
+      "type": "GuildText",
+      "parent": "▬▬ 𝘾𝙊𝙉𝙏𝘼𝘾𝙏",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1399356749118443683",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "707864201032630303",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "EmbedLinks",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": "<:Ts_14_discord_pointg:1397694229333016647>  <a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602> **: General <a:Verify:1368578976322293811> พิมพ์ได้ตลอด 24 ชั่วโมง**",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎧🔔⎫ㆍ𝗔𝗻𝗻𝗼𝘂𝗻𝗰𝗲",
+      "type": "GuildNews",
+      "parent": "◥◣▬▬▬▬▬▬ 🏠ꕤMain ▬▬▬▬▬▬◢◤",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1399356749118443683",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": "<a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602>**: ห้องประกาศข่าวสาร**",
+      "nsfw": false,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "🔴︰𝐂𝐋𝐎𝐒𝐄",
+      "type": "GuildNews",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ViewChannel",
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "ㄴ⋮📢ㆍ𝗩𝗼𝗶𝗰𝗲✧𝗖𝗵𝗮𝘁",
+      "type": "GuildVoice",
+      "parent": "▬▬ 𝘾𝙊𝙉𝙏𝘼𝘾𝙏",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398030204630470656",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397616547446395002",
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "name": "Roblox",
+      "type": "GuildVoice",
+      "parent": "════ ⋆★⋆ ════════════════ ⋆★⋆ ════",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398030204630470656",
+          "allow": [
+            "AddReactions",
+            "Stream",
+            "SendMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "UseExternalEmojis",
+            "Connect",
+            "Speak",
+            "UseVAD",
+            "UseExternalStickers",
+            "UseSoundboard",
+            "UseExternalSounds"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397745798254690364",
+          "allow": [
+            "AddReactions",
+            "Stream",
+            "ViewChannel",
+            "SendMessages",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "UseExternalEmojis",
+            "Connect",
+            "Speak",
+            "UseVAD",
+            "UseExternalStickers",
+            "SendMessagesInThreads",
+            "UseSoundboard",
+            "UseExternalSounds"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "bitrate": 64000,
+      "userLimit": 0
+    },
+    {
+      "name": "ㄴ🗒️-chat-command",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎧🎁⎫ㆍ𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻",
+      "type": "GuildNews",
+      "parent": "◥◣▬▬▬▬▬▬ 💒ꕤShop ▬▬▬▬▬▬◢◤",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": null
+    },
+    {
+      "name": "ㄴ⋮🛍️（1）𝗥𝗼𝗯𝗹𝗼𝘅ㆍ𝗚𝗿𝗼𝘂𝗽",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "💬ㆍchat",
+      "type": "GuildText",
+      "parent": "════ ⋆★⋆ ════════════════ ⋆★⋆ ════",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397745798254690364",
+          "allow": [
+            "AddReactions",
+            "Stream",
+            "ViewChannel",
+            "SendMessages",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "UseExternalEmojis",
+            "Connect",
+            "Speak",
+            "UseVAD",
+            "UseExternalStickers",
+            "SendMessagesInThreads",
+            "UseSoundboard",
+            "UseExternalSounds"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": "<:Ts_14_discord_pointg:1397694229333016647>  <a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602> **: General <a:Verify:1368578976322293811> พิมพ์ได้ตลอด 24 ชั่วโมง**",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "partner-ida",
+      "type": "GuildText",
+      "parent": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "targetId": "1399368623432138892",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622633255800852",
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397628760009871370",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "557628352828014614",
+          "allow": [
+            "ManageChannels",
+            "ViewChannel",
+            "SendMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622625521504339",
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 1,
+          "targetId": "319200631447355392",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "1395987409354756126",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622636216975483",
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 1,
+          "targetId": "936215519680421898",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "1399707802233999442",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1398048049858740364",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-in",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "test",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙏𝙀𝙎𝙏",
+      "position": 0,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398994356056100874",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎜📖⎥ㆍ𝗥𝘂𝗹𝗲",
+      "type": "GuildText",
+      "parent": "◥◣▬▬▬▬▬▬ 🏠ꕤMain ▬▬▬▬▬▬◢◤",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1399356749118443683",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": "<a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602>**: ห้องกฎการใช้เซิฟเวอร์**",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "◥◣▬▬▬▬▬▬ 🏠ꕤMain ▬▬▬▬▬▬◢◤",
+      "type": "GuildCategory",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1399356749118443683",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ticket-0012-blacklist",
+      "type": "GuildText",
+      "parent": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397622636216975483",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397628760009871370",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622633255800852",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "557628352828014614",
+          "allow": [
+            "ManageChannels",
+            "ViewChannel",
+            "SendMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622625521504339",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-out",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ⋮🛍️（2）𝗥𝗼𝗯𝗹𝗼𝘅ㆍ𝗜𝗗-𝗣𝗔𝗦𝗦",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎜🎟⎥ㆍ𝗧𝗶𝗰𝗸𝗲𝘁",
+      "type": "GuildText",
+      "parent": "◥◣▬▬▬▬▬▬ 💒ꕤShop ▬▬▬▬▬▬◢◤",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616523241197638",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": "<:Ts_14_discord_pointg:1397694229333016647><a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602>** : ห้องสำหรับเปิด Ticket เพื่อเติมเกม , ติดต่อแอดมิน**",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "log-bank",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙏𝙀𝙎𝙏",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398994356056100874",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ📁-source-image",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "🎶ㆍchompu",
+      "type": "GuildText",
+      "parent": "════ ⋆★⋆ ════════════════ ⋆★⋆ ════",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616547446395002",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397745798254690364",
+          "allow": [
+            "AddReactions",
+            "Stream",
+            "SendMessages",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "UseExternalEmojis",
+            "Connect",
+            "Speak",
+            "UseVAD",
+            "UseExternalStickers",
+            "SendMessagesInThreads",
+            "UseSoundboard",
+            "UseExternalSounds"
+          ],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "✅︰𝐕𝐄𝐑𝐈𝐅𝐘",
+      "type": "GuildText",
+      "position": 1,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ViewChannel",
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ💾-template-text",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ticket-0018",
+      "type": "GuildText",
+      "parent": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397622633255800852",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397628760009871370",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "1176713735012880470",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622625521504339",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "557628352828014614",
+          "allow": [
+            "ManageChannels",
+            "ViewChannel",
+            "SendMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622636216975483",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ⋮🛍️（3）𝗗𝗶𝘀𝗰𝗼𝗿𝗱ㆍ𝗦𝗲𝗿𝘃𝗲𝗿",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎩💌⎭ㆍ𝗣𝗮𝗿𝘁𝗻𝗲𝗿",
+      "type": "GuildText",
+      "parent": "◥◣▬▬▬▬▬▬ 🏠ꕤMain ▬▬▬▬▬▬◢◤",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1399356749118443683",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": "<a:D1:1368205090762260602><a:I1:1368205104829698118><a:S1:1368205122471198760><a:C1:1368205152862863470><a:O1:1368205191643402321><a:R1:1368205231963504661><a:D1:1368205090762260602>**: รับ Partner นะครับ Ticket มาได้เลย**",
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-role",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "▬▬ 𝘾𝙊𝙉𝙏𝘼𝘾𝙏",
+      "type": "GuildCategory",
+      "position": 2,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "⎜📦⎥ㆍ𝗢𝗿𝗱𝗲𝗿｜9",
+      "type": "GuildText",
+      "parent": "◥◣▬▬▬▬▬▬ 💒ꕤShop ▬▬▬▬▬▬◢◤",
+      "position": 2,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "⎩⭐⎭ㆍ𝗖𝗿𝗲𝗱𝗶𝘁｜9",
+      "type": "GuildText",
+      "parent": "◥◣▬▬▬▬▬▬ 💒ꕤShop ▬▬▬▬▬▬◢◤",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397615716890575022",
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ticket-0031",
+      "type": "GuildText",
+      "parent": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 1,
+          "targetId": "512230986231185428",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622633255800852",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397628760009871370",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "557628352828014614",
+          "allow": [
+            "ManageChannels",
+            "ViewChannel",
+            "SendMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622625521504339",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622636216975483",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ⋮🛍️（4）𝗗𝗶𝘀𝗰𝗼𝗿𝗱ㆍ𝗕𝗼𝘁",
+      "type": "GuildText",
+      "parent": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-chat",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🗂️-source-url",
+      "type": "GuildForum",
+      "parent": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "nsfw": false,
+      "topic": null
+    },
+    {
+      "name": "◥◣▬▬▬▬▬▬ 💒ꕤShop ▬▬▬▬▬▬◢◤",
+      "type": "GuildCategory",
+      "position": 3,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614176406343852",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ㄴ⋮🛍️（5）𝗗𝗶𝘀𝗰𝗼𝗿𝗱ㆍ𝗕𝗼𝘁ㆍ𝗦𝗰𝗿𝗶𝗽𝘁",
+      "type": "GuildForum",
+      "parent": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands",
+            "SendMessagesInThreads"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ],
+      "nsfw": false,
+      "topic": null
+    },
+    {
+      "name": "ticket-0032",
+      "type": "GuildText",
+      "parent": "▬▬ 🎫 𝙏𝙄𝘾𝙆𝙀𝙏",
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397622633255800852",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397628760009871370",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "557628352828014614",
+          "allow": [
+            "ManageChannels",
+            "ViewChannel",
+            "SendMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622625521504339",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397622636216975483",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 1,
+          "targetId": "1371199419185238270",
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "▬▬ 𝙋𝙍𝙄𝘾𝙀",
+      "type": "GuildCategory",
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397614291481399336",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": [
+            "AddReactions",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [
+            "ReadMessageHistory"
+          ],
+          "deny": [
+            "AddReactions",
+            "ViewChannel",
+            "SendMessages",
+            "UseApplicationCommands"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ㄴ🖥️-voice",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-moderator",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "position": 4,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "▬▬ 𝙏𝙀𝙎𝙏",
+      "type": "GuildCategory",
+      "position": 5,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1398994356056100874",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ㄴ🖥️-boost",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 5,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "════ ⋆★⋆ ════════════════ ⋆★⋆ ════",
+      "type": "GuildCategory",
+      "position": 6,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397745798254690364",
+          "allow": [
+            "AddReactions",
+            "Stream",
+            "ViewChannel",
+            "SendMessages",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "UseExternalEmojis",
+            "Connect",
+            "Speak",
+            "UseVAD",
+            "UseExternalStickers",
+            "SendMessagesInThreads",
+            "UseSoundboard",
+            "UseExternalSounds"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ㄴ🖥️-ticket",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 6,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616523241197638",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "ㄴ🖥️-security",
+      "type": "GuildText",
+      "parent": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "position": 7,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ],
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "name": "════ ⋆★⋆ ════════════════ ⋆★⋆ ════",
+      "type": "GuildCategory",
+      "position": 7,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "▬▬ ⚙ 𝘿𝙀𝙑 ⚙",
+      "type": "GuildCategory",
+      "position": 8,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397613597601042502",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1398252023706685573",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "▬▬ ⚙ 𝙇𝙊𝙂 ⚙",
+      "type": "GuildCategory",
+      "position": 9,
+      "permissionOverwrites": [
+        {
+          "type": 0,
+          "targetId": "1397616536893657159",
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        },
+        {
+          "type": 0,
+          "targetId": "1397606218712879215",
+          "allow": [],
+          "deny": [
+            "ViewChannel"
+          ]
+        }
+      ]
+    }
+  ]
+}
